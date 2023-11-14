@@ -3,27 +3,27 @@
 Welcome to the pre-con session on Git Your Database Under Control! Please fill out this survey to help us understand your background and expectations. Once you're done, commit your changes and create a pull request to submit your responses..
 
 ## Personal Information (Optional)
-- **Name**: 
-- **What do you do in your work**: 
-- **Experience with Version Control**: 
+- **Name**: Shelly Miler
+- **What do you do in your work**: data arch
+- **Experience with Version Control**: some experience with GIT but not confident
 
 ## Pre-Session Knowledge
 1. **What do you already know about Version Control Systems (VCS)?**
    - [ ] Nothing at all
    - [ ] I've heard of it but never used it
-   - [ ] Basic understanding of VCS concepts
+   - [xx ] Basic understanding of VCS concepts
    - [ ] Comfortable using VCS
    - [ ] I use VCS regularly
 
 2. **Which Version Control Systems are you familiar with? (Please check all that apply)**
-   - [ ] Git
+   -  x] Git
    - [ ] Subversion (SVN)
    - [ ] Mercurial
    - [ ] Team Foundation Version Control (TFVC)
    - [ ] Other: 
 
 3. **Have you ever used GitHub or any other remote repository hosting service?**
-   - [ ] Yes
+   - [ x] Yes
    - [ ] No
 
 ## Expectations from the Session
@@ -34,7 +34,7 @@ Welcome to the pre-con session on Git Your Database Under Control! Please fill o
 ## Experience with Collaboration
 1. **Have you contributed to any open-source projects?**
    - [ ] Yes
-   - [ ] No
+   - [x ] No
 
 2. **If yes, which ones and in what way?** (If you haven't, just write N/A)
 
